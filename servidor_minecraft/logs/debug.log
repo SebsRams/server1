@@ -588,3 +588,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Mar2025 16:43:09.967] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [04Mar2025 16:48:09.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Mar2025 16:48:09.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 16:53:09.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 16:53:09.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 16:53:57.630] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[04Mar2025 16:53:57.630] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxSharedCapacityFactor: 2
+[04Mar2025 16:53:57.631] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.linkCapacity: 16
+[04Mar2025 16:53:57.631] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[04Mar2025 16:53:57.631] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.delayedQueue.ratio: 8
+[04Mar2025 16:53:57.636] [Netty Epoll Server IO #1/DEBUG] [io.netty.buffer.AbstractByteBuf/]: -Dio.netty.buffer.checkAccessible: true
+[04Mar2025 16:53:57.636] [Netty Epoll Server IO #1/DEBUG] [io.netty.buffer.AbstractByteBuf/]: -Dio.netty.buffer.checkBounds: true
+[04Mar2025 16:53:57.636] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.ResourceLeakDetectorFactory/]: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7a07f4db
+[04Mar2025 16:54:00.829] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 19 messages to dispatch.
+[04Mar2025 16:54:00.868] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[04Mar2025 16:54:00.918] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[04Mar2025 16:54:00.968] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 2
+[04Mar2025 16:54:01.018] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 3
+[04Mar2025 16:54:01.074] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@681ed984[id=<null>,name=Sebsrams,properties={},legacy=false] (/127.213.71.191:40595) lost connection: Disconnected
+[04Mar2025 16:58:09.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 16:58:09.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
